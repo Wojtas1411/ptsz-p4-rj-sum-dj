@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="advanced" targetName="advanced" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3c2e798-5d65-4a1a-96fa-f933999af53c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1UC13z9zTMWAlQ5jZrHUqGw0Gw6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tabu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.run-wt-100">
+    <configuration name="run-mb-100" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./input/mb/n100.txt ./output/mb/z100.txt" WORKING_DIR="file://$PROJECT_DIR$/.." PASS_PARENT_ENVS_2="true" PROJECT_NAME="advanced" TARGET_NAME="advanced" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="advanced" RUN_TARGET_NAME="advanced">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run-mb-50" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./input/mb/n50.txt ./output/mb/z50.txt" WORKING_DIR="file://$PROJECT_DIR$/.." PASS_PARENT_ENVS_2="true" PROJECT_NAME="advanced" TARGET_NAME="advanced" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="advanced" RUN_TARGET_NAME="advanced">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run-td-100" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./input/td/n100.txt ./output/td/z100.txt" WORKING_DIR="file://$PROJECT_DIR$/.." PASS_PARENT_ENVS_2="true" PROJECT_NAME="advanced" TARGET_NAME="advanced" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="advanced" RUN_TARGET_NAME="advanced">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run-td-50" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./input/td/n50.txt ./output/td/z50.txt" WORKING_DIR="file://$PROJECT_DIR$/.." PASS_PARENT_ENVS_2="true" PROJECT_NAME="advanced" TARGET_NAME="advanced" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="advanced" RUN_TARGET_NAME="advanced">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run-wt-100" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./input/wt/n100.txt ./output/wt/z100.txt" WORKING_DIR="file://$PROJECT_DIR$/.." PASS_PARENT_ENVS_2="true" PROJECT_NAME="advanced" TARGET_NAME="advanced" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="advanced" RUN_TARGET_NAME="advanced">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run-wt-50" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./input/wt/n50.txt ./output/wt/z50.txt" WORKING_DIR="file://$PROJECT_DIR$/.." PASS_PARENT_ENVS_2="true" PROJECT_NAME="advanced" TARGET_NAME="advanced" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="advanced" RUN_TARGET_NAME="advanced">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.run-mb-100" />
+      <item itemvalue="CMake Application.run-mb-50" />
+      <item itemvalue="CMake Application.run-td-100" />
+      <item itemvalue="CMake Application.run-td-50" />
+      <item itemvalue="CMake Application.run-wt-100" />
+      <item itemvalue="CMake Application.run-wt-50" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3c2e798-5d65-4a1a-96fa-f933999af53c" name="Default Changelist" comment="" />
+      <created>1574845567912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574845567912</updated>
+      <workItem from="1574845569688" duration="4004000" />
+      <workItem from="1574853609595" duration="3902000" />
+      <workItem from="1574860039688" duration="2845000" />
+      <workItem from="1574885029851" duration="3127000" />
+      <workItem from="1575644066566" duration="599000" />
+      <workItem from="1575721224878" duration="8717000" />
+      <workItem from="1575803572324" duration="17628000" />
+      <workItem from="1576054166545" duration="4993000" />
+      <workItem from="1576059901297" duration="1718000" />
+      <workItem from="1576073542256" duration="4032000" />
+      <workItem from="1576087520247" duration="6894000" />
+      <workItem from="1576402999824" duration="1731000" />
+      <workItem from="1576655643216" duration="7060000" />
+      <workItem from="1576686266400" duration="3928000" />
+      <workItem from="1576855683027" duration="5875000" />
+      <workItem from="1576923309143" duration="4320000" />
+      <workItem from="1578472850802" duration="622000" />
+      <workItem from="1578739544438" duration="1974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576691161655">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="209" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1576691161655" />
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.3840.1053@0.27.3840.1053" timestamp="1575818181828" />
+    <state width="1874" height="401" key="GridCell.Tab.0.bottom" timestamp="1578477261211">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="22" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1576404843676" />
+    <state width="1874" height="401" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1578477261211" />
+    <state width="1874" height="252" key="GridCell.Tab.0.bottom/0.27.3840.1053@0.27.3840.1053" timestamp="1576095506166" />
+    <state width="1874" height="401" key="GridCell.Tab.0.center" timestamp="1578477261211">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="22" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1576404843676" />
+    <state width="1874" height="401" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1578477261211" />
+    <state width="1874" height="252" key="GridCell.Tab.0.center/0.27.3840.1053@0.27.3840.1053" timestamp="1576095506166" />
+    <state width="1874" height="401" key="GridCell.Tab.0.left" timestamp="1578477261211">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="22" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1576404843676" />
+    <state width="1874" height="401" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1578477261211" />
+    <state width="1874" height="252" key="GridCell.Tab.0.left/0.27.3840.1053@0.27.3840.1053" timestamp="1576095506165" />
+    <state width="1874" height="401" key="GridCell.Tab.0.right" timestamp="1578477261211">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="22" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1576404843676" />
+    <state width="1874" height="401" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1578477261211" />
+    <state width="1874" height="252" key="GridCell.Tab.0.right/0.27.3840.1053@0.27.3840.1053" timestamp="1576095506166" />
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom" timestamp="1576662905722">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1576662905722" />
+    <state width="1874" height="340" key="GridCell.Tab.1.center" timestamp="1576662905720">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1576662905720" />
+    <state width="1874" height="340" key="GridCell.Tab.1.left" timestamp="1576662905719">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1576662905719" />
+    <state width="1874" height="340" key="GridCell.Tab.1.right" timestamp="1576662905721">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1576662905721" />
+    <state x="918" y="195" width="501" height="723" key="refactoring.ChangeSignatureDialog" timestamp="1575824092237">
+      <screen x="0" y="27" width="3840" height="1053" />
+    </state>
+    <state x="704" y="195" width="501" height="723" key="refactoring.ChangeSignatureDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1575750740830" />
+    <state x="918" y="195" key="refactoring.ChangeSignatureDialog/0.27.3840.1053@0.27.3840.1053" timestamp="1575824092237" />
+  </component>
+</project>
